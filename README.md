@@ -20,7 +20,7 @@ Train the model using an optimizer and loss function, evaluate performance on th
 
 ## PROGRAM
 
-```python
+
 # Load Pretrained Model and Modify for Transfer Learning
 
 ```
@@ -93,7 +93,6 @@ train_model(model, train_loader, test_loader, num_epochs=10)
 ```
 
 
-```
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
